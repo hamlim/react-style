@@ -1,7 +1,7 @@
 {
   "name": "xr02wj0pqp",
   "description": null,
-  "main": "src/demo/index",
+  "main": "src/demo/index.js",
   "version": "0.0.0",
   "dependencies": {
     "react-dom": "16.0.0",
